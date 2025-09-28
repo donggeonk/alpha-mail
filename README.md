@@ -1,4 +1,4 @@
-# AlphaMail
+# ⍺lphaMail
 
 This application provides an intelligent, at-a-glance summary of your overnight emails. It features a Python backend that fetches, analyzes, and summarizes emails using an LLM, and a Next.js frontend that presents them in a clean, flashcard-style interface for rapid inbox management.
 
