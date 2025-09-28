@@ -30,7 +30,7 @@ export default function HomePage() {
 
   return (
     <div className="flex flex-col items-center p-6">
-      <h1 className="text-2xl font-bold mb-6">📬 Daily Digest</h1>
+      <h1 className="text-2xl font-bold mb-6">⍺lphaMail</h1>
       {isLoading ? (
         <p className="text-gray-500">Loading emails...</p>
       ) : (
